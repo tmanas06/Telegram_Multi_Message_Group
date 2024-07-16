@@ -6,6 +6,7 @@ This project is for sends messages of any lenth and size from a Google Sheets do
 
 - Connects to Telegram using Telethon.
 - Reads messages from a Google Sheet.
+- there's no set limit to message length 
 - Sends messages to specified Telegram groups.
 - Handles errors such as flood errors and authorization issues.
 
