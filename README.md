@@ -1,6 +1,6 @@
 # Telegram Group Message Sender
 
-This script sends messages from a Google Sheets document to multiple Telegram groups using the Telethon library.
+This project is for sends messages of any lenth and size from a Google Sheets document to multiple Telegram groups using the Telethon library.
 
 ## Features
 
