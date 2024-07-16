@@ -81,6 +81,7 @@ Ensure your Google Sheet is structured with messages in the first column. For ex
     python Message.py
  ```
 ![image](https://github.com/user-attachments/assets/98e74f44-9f8e-49c0-a648-430e6be9685d)
+![image](https://github.com/user-attachments/assets/d164fba1-32be-48c0-b19e-a517ce6bd149)
 
 
 ### Disclaimer
