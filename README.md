@@ -52,7 +52,7 @@ This project is for sends messages of any lenth and size from a Google Sheets do
 
 1. Run the script:
     ```bash
-    python bot.py
+    python Message.py
     ```
 
 2. Follow the on-screen instructions to:
